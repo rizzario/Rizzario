@@ -24,6 +24,9 @@
   <img   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR0anZzYXRjc2Z5MWFuNmxwamsyd2JxODJkMWhnZmxuZWFmdXVuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+### 🧑‍💻: About Me :
+
 <!--
 **rizzario/Rizzario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
