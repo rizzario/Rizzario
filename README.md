@@ -42,7 +42,7 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
 ---
 ### 🛠️ Languages and Tools :
 <div>
-  <img src="https://d3ba5g9yhie26y.cloudfront.net/img/progress-logo.png" title="Progress4GL" alt="Progress4GL" width="130" height="32" />&nbsp;
+  <img src="https://d3ba5g9yhie26y.cloudfront.net/img/progress-logo.png" title="Progress4GL" alt="Progress4GL" width="130" height="40" />&nbsp;
   <img src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo.png" title="Uipath" alt="UiPath" width="65" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python: alt="Python" width="40" height="40"/>&nbsp;
@@ -55,6 +55,10 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### 🔥 My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rizzario)](https://git.io/streak-stats)
 <!--
 **rizzario/Rizzario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
