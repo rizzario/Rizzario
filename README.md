@@ -42,7 +42,7 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
 ---
 ### 🛠️ Languages and Tools :
 <div>
-  <path title="ProgressShape" alt="ProgressShape" d="M95.52,29.33h0v51a3.93,3.93,0,0,1-1.78,3.08l-1.67,1L79.35,91.76l-8.59,5-1.78,1V42.6L21.23,15,43.91,1.93,46,0.74a3.94,3.94,0,0,1,3.56,0L81,18.9l14.51,8.38v2.05ZM58.36,48.72l-9.79-5.66L25.66,29.83a4,4,0,0,0-3.56,0L1.77,41.57,0,42.6,34.49,62.51v39.83l20.3-11.73,1.79-1a3.94,3.94,0,0,0,1.78-3.08V48.72ZM0,82.43L23.86,96.21V68.63Z"></path>
+  <img src="https://d3ba5g9yhie26y.cloudfront.net/img/progress-logo.png" title="Progress4GL" alt="Progress4GL" width="130" height="32" />&nbsp;
   <img src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo.png" title="Uipath" alt="UiPath" width="65" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python: alt="Python" width="40" height="40"/>&nbsp;
