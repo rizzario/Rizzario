@@ -41,7 +41,7 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
 
 - ⚡ In my free time, I usually spending time on computer games and watching anime.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kittipong-kittirungcharoen-1412br/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kittipong-kittirungcharoen-1412br/)
 
 ---
 ### 🛠️ Languages and Tools :
