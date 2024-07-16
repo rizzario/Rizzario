@@ -16,6 +16,10 @@
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"
       alt="X Badge"/>
   </a>
+  <a href="https://www.reddit.com/user/MeowRizzy/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
+      alt="Reddit Badge"/>
+  </a>
 </div>
 
 ## Hi there 👋
@@ -31,7 +35,7 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
 
 - 💻 I’m working as a Software developer using C# and Visual FoxPro for building applications.
 
-- 🤖 Additional as of RPA developer using UiPath for reduce working time for my colleague (Work Life Balance is important!).
+- 🤖 Additional as of RPA developer using UiPath for reduce working time for my co-worker (Work Life Balance is important!).
   
 - 🧑‍🎓 I'm currently practicing in web developer using framework.
 
