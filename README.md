@@ -58,7 +58,7 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
 
 ---
 ### 🔥 My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rizzario)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rizzario&theme=vision-friendly-dark&border_radius=2.5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **rizzario/Rizzario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
