@@ -59,6 +59,7 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
 ---
 ### 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rizzario&theme=vision-friendly-dark&border_radius=2.5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzario&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rizzario/Rizzario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
