@@ -27,8 +27,15 @@
 ---
 ### 🧑‍💻 About Me :
 I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lydnJveXdyYXhtbzNoemozbHhieXVtMmxmMDJnbnNxY2tjMnAxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SUcApSWjPwQMARvcM8/giphy.gif" width="30"> 
-  and ERP technical support <img
-src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdtMDh5OHFkYnNzem11dnNmZGgzdjk5bnZpMGN0aGJ2dXlseWZsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUMxbiDIzBOiFGA71r/giphy.gif" width="30"> from Thailand.
+  and ERP technical support 📘 from Thailand.
+
+- 💻 I’m working as a Software developer using C# and Visual FoxPro for building applications.
+  
+- 🧑‍🎓 I'm currently practicing in web developer using framework.
+
+- ⚡ In my free time, I usually spending time on computer games and watching anime.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kittipong-kittirungcharoen-1412br/)
 
 <!--
 **rizzario/Rizzario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
