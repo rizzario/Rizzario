@@ -30,6 +30,8 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
   and ERP technical support 📘 from Thailand.
 
 - 💻 I’m working as a Software developer using C# and Visual FoxPro for building applications.
+
+- 🤖 Additional as of RPA developer using UiPath for reduce working time for my colleague (Work Life Balance is important!).
   
 - 🧑‍🎓 I'm currently practicing in web developer using framework.
 
