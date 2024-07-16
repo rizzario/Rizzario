@@ -13,8 +13,8 @@
       alt="Youtube Badge"/>
   </a>
   <a href="https://x.com/Jingly1412">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" 
-      alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"
+      alt="X Badge"/>
   </a>
 </div>
 
@@ -66,7 +66,7 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
 Overall : <a href="https://www.sitepoint.com/github-profile-readme/">How to Create an Impressive GitHub Profile README</a>\
 Emoji cheat sheets : <a href="https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#people--body">😘Emoji</a>\
 DevIcon : <a href="https://github.com/devicons">🧑‍💻Thanks you</a>\
-Bage : <a href="https://dev.to/envoy_/150-badges-for-github-pnk">everyone🎧</a>\
+Bage : <a href="https://github.com/Ileriayo/markdown-badges">everyone🎧</a>\
 Streak stats : <a href="https://github.com/DenverCoder1/github-readme-streak-stats">🍊This</a>\
 Demo streak stats : <a href="https://github-readme-streak-stats.herokuapp.com/demo/">🍎is</a>\
 Other streak stats : <a href="https://github.com/anuraghazra/github-readme-stats">🍉awesome</a>\
