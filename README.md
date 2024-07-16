@@ -3,6 +3,18 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNlZGlkZHI1NGVjeWNkY2lxYXQ5b28ycWNsOWw1Y2tkb2wxbnI5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="200"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kittipong-kittirungcharoen-1412br/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://x.com/Jingly1412">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ## Hi there 👋
 
 <!--
