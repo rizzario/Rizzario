@@ -25,7 +25,10 @@
 </div>
 
 ---
-### 🧑‍💻: About Me :
+### 🧑‍💻 About Me :
+I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lydnJveXdyYXhtbzNoemozbHhieXVtMmxmMDJnbnNxY2tjMnAxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SUcApSWjPwQMARvcM8/giphy.gif" width="30"> 
+  and ERP technical support <img
+src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q5emhvaGNjemFrdGVmMzhqczUzdTJ1Nzd2bjV2eWI0d285Zm5iNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FFb9yZK6t0oDu/giphy.gif" width="30"> from Thailand.
 
 <!--
 **rizzario/Rizzario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
