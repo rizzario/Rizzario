@@ -45,7 +45,7 @@ I am a RPA Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ly
 ### 🛠️ Languages and Tools :
 <div>
   <img src="https://d3ba5g9yhie26y.cloudfront.net/img/progress-logo.png" title="Progress4GL" alt="Progress4GL" width="130" height="40" />&nbsp;
-  <img src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo.png" title="Uipath" alt="UiPath" width="65" height="40" />&nbsp;
+  <img src="https://www.uipath.com/steam-agency/static/uipath-newlogo-mobile-3de332da18e38cdb93779585823b0da3.svg" title="Uipath" alt="UiPath" width="65" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python: alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
